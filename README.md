@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my pinned projects
 - 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on new projects that take me out from my comfort zone
+- 👯 I’m looking for collaboratin on new projects that take me out from my comfort zone
 - 💬 Ask me about art and programming
-- 📫 How to reach me: martinsobel99@gmail.com
+- 📫 Contact me: martinsobel99@gmail.com
 
 ### Some projects I've made:
 - [Covchart](https://github.com/MartinSobel/Covchart), a tool for creating drawings, from the shape of the COVID-19 contagion curves
