@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on my pinned projects, and working in web development
-👯 I’m looking for collaboratin on new projects that take me out from my comfort zone
-💬 Ask me about art and programming
-📫 Contact me: martinsobel99@gmail.com
+- 🔭 I’m currently working on my pinned projects, and working in web development
+- 👯 I’m looking for collaboratin on new projects that take me out from my comfort zone
+- 💬 Ask me about art and programming
+- 📫 Contact me: martinsobel99@gmail.com
 
 ### Some projects I've made:
 - [Covchart](https://github.com/MartinSobel/Covchart), a tool for creating drawings, from the shape of the COVID-19 contagion curves
