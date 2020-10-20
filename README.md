@@ -5,12 +5,6 @@
 - 📫 Contact me: martinsobel99@gmail.com
 
 ### Some projects I've made:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 - 📈 [Covchart](https://github.com/MartinSobel/Covchart), a tool for creating drawings, from the shape of the COVID-19 contagion curves
 - 🚗 WebGl Seltos 3D [development](https://martinsobel.github.io/Seltos3D/) for KIA
 - 🗻 Web development of landing page for [Raventena](http://raventena.com/), the first Minecraft festival in Argentina
