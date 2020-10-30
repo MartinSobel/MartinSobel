@@ -6,7 +6,7 @@
 
 ### Some projects I've made:
 - 📈 [Covchart](https://github.com/MartinSobel/Covchart), a tool for creating drawings, from the shape of the COVID-19 contagion curves
-- 🚗 WebGl Seltos 3D [development](https://martinsobel.github.io/Seltos3D/) for KIA
+- 🚗 WebGl Seltos 3D [development](http://www.kia.com.ar/seltos3d/) for KIA
 - 🗻 Web development of landing page for [Raventena](http://raventena.com/), the first Minecraft festival in Argentina
 - 🏭 Web development of landing page for [Equisol](http://equisol.com.py/), a company of equipment and solutions in industrial gases based in Paraguay.
 - 👕 E-commerce site for [Telastex](https://telastex.com/), a fabric store.
