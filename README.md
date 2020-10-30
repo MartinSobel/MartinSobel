@@ -9,8 +9,6 @@
 - 🚗 WebGl Seltos 3D [development](http://www.kia.com.ar/seltos3d/) for KIA
 - 🗻 Web development of landing page for [Raventena](http://raventena.com/), the first Minecraft festival in Argentina
 - 🏭 Web development of landing page for [Equisol](http://equisol.com.py/), a company of equipment and solutions in industrial gases based in Paraguay.
-- 👕 E-commerce site for [Telastex](https://telastex.com/), a fabric store.
-- 🍆 E-commerce site and design for [Shipibo](http://shipibo.com.ar/#!/), a plant-based restaurant
 - 🔦 MIDI controlled light [system](https://github.com/MartinSobel/ARPPA) for [ARPPA](https://www.instagram.com/p/B7PDwOuA1Qb/?utm_source=ig_web_button_share_sheet), an industrial electronic music collective.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinsobel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
