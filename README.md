@@ -18,6 +18,4 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://lh3.googleusercontent.com/proxy/YHmxMfegCFaBbHTTh5fbswfyj9j0C9LShwcSL2ScAdCtccYLqu6-bSLhTJSQc8qtHnq6Aa6CQvmjr7dnNPdqtZ3s5BhF56qfUXsCI_DvBfWcyPN-jB9LPJUTzHF7MkftfhU" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
